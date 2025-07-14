@@ -25,18 +25,18 @@ La aplicación SoundboardAnimales no solicita, accede ni utiliza:
 * Permisos de la aplicación: 
 La aplicación no requiere permisos especiales para funcionar. Todos los sonidos e imágenes están incluidos dentro de la aplicación y se ejecutan localmente en el dispositivo. No se necesita conexión a internet para su funcionamiento.
 
-* Anuncios y compras
+* Anuncios y compras:
 Nuestra app está etiquetada como "para niños", lo cual activa las políticas de Google diseñadas para cumplir con la Ley COPPA (Children's Online Privacy Protection Act).
-No se muestran anuncios personalizados (segmentados).
-Solo se muestran anuncios adecuados para público infantil.
-Sin compras integradas: No se ofrecen compras dentro de la aplicación.
+  1. No se muestran anuncios personalizados (segmentados).
+  2. Solo se muestran anuncios adecuados para público infantil.
+  3. Sin compras integradas: No se ofrecen compras dentro de la aplicación.
 
-* Privacidad infantil
+* Privacidad infantil:
 Esta aplicación está diseñada para ser segura y apropiada para niños. Cumple con la Ley de Protección de la Privacidad Infantil en Línea (COPPA) y otras normativas similares, al no recopilar datos ni mostrar contenidos inapropiados.
 
-* Cambios en esta política
+* Cambios en esta política:
 Nos reservamos el derecho de actualizar esta política de privacidad si en el futuro agregamos funcionalidades que requieran recopilación de datos. En ese caso, la nueva política se publicará en esta misma sección dentro de la aplicación o en su tienda correspondiente.
 
-* Contacto
+* Contacto:
 Si tienes preguntas sobre esta política de privacidad, puedes escribirnos a:
 📧 gchacon80046@gmail.com
